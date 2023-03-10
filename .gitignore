@@ -7,5 +7,6 @@ Debug/
 publish-netcoreapp*/
 app/*
 node_modules/
+package-lock.json
 launchSettings.json
 *.user

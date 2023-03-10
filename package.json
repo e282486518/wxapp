@@ -1,16 +1,16 @@
 {
-  "name": "wxapp-unpacker",
+  "name": "wxapp",
   "version": "1.0.1",
   "description": "Wechat App(微信小程序, .wxapkg)解包及相关文件(.wxss, .json, .wxs, .wxml)还原工具",
   "main": "wuWxapkg.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qwerty472123/wxappUnpacker.git"
+    "url": "git+https://github.com/e282486518/wxapp.git"
   },
   "author": "qwerty472123",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/qwerty472123/wxappUnpacker/issues"
+    "url": "https://github.com/e282486518/wxapp"
   },
   "scripts": {
     "pkg": "node wuWxapkg.js",
@@ -19,7 +19,7 @@
     "js": "node wuJs.js",
     "cfg": "node wuConfig.js"
   },
-  "homepage": "https://github.com/qwerty472123/wxappUnpacker#readme",
+  "homepage": "https://github.com/e282486518/wxapp",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "css-tree": "^1.1.3",
